@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TicketPurchaseApp
 {
-    class Test
+    public class Test
     {
+        private int number;
     }
 }
